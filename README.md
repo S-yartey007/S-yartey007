@@ -87,7 +87,7 @@ Call me = "Emma Yartey" 🤗
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-yartey007&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-yartey007&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-yartey007&theme=github_dark)
-[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=s-yartey007&show_icons=true&theme=github_dark)](https://github.com/qbentil)
+[![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=s-yartey007&show_icons=true&theme=github_dark)](https://github.com/s-yartey007)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
  
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
