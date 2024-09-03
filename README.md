@@ -9,9 +9,8 @@ I am very passionate about Node.js & vanilla JavaScript<br />
 ## 🎧ABOUT ME💻
 
 ```cpp
-Call me = "Emma Yartey" 🤗
--🌱 I'm a Backend Developer & a Technical Author🖊️
-- 🌌 Proficiently Skilled in - Web Application Development, Mobile App Development and  USSD Applications
+Call me = "Emmanuel Yartey" 🤗
+-🌱 I'm a Developer in both Frontend and Backend
 -⚡ Fun facts:I like Listening to Music🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about the journey and the answer is `HUMILITY, FAITH AND HARDWORK`.
 -👀 
