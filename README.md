@@ -1,32 +1,34 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=S-yartey007&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 <p>
-    <h1 align="center"> Hi 👋, I'm Yartey</h1>
+    <h1 align="center"> Hi 👋, Emmanule here</h1>
 <p align="center"> 
-I am very passionate about Node.js & vanilla JavaScript<br />
+learning about Node.js & vanilla JavaScript is my pride and joy<br />
 </p>
-
 
 ## 🎧ABOUT ME💻
 
 ```cpp
 Call me = "Emmanuel Yartey" 🤗
--🌱 I'm a Developer in both Frontend and Backend
+-🌱 I'm a passionate frontend developer with a love for building intuitive, responsive, and user-friendly web applications. With a focus on clean, maintainable code and modern development practices, I strive to create seamless digital experiences that solve real-world problems.
 -⚡ Fun facts:I like Listening to Music🎧🎵 & Surfing the internet🌎🌐
 -💬 Ask me about the journey and the answer is `HUMILITY, FAITH AND HARDWORK`.
--👀 
+-👀
 ```
 
 <h3 align="left">🔌 CONNECT:</h3>
 
 [![telegram badge](https://img.shields.io/badge/eyartey-30302f?style=for-the-badge&logo=telegram)](https://t.me/emmanuel_yartey)
+
 <!-- [![Twitter badge](https://img.shields.io/badge/THEMANBENTIL-30302f?style=for-the-badge&logo=twitter)](https://twitter.com/themanbentil) -->
+
 [![linkedin badge](https://img.shields.io/badge/linkedIn-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eyartey)
 [![whatsApp badge](https://img.shields.io/badge/eyartey-30302f?style=for-the-badge&logo=whatsapp)](https://wa.me/233599318473?text=Hello%20Yartey!%20I%27m%20coming%20from%20your%20Github%20profile)
+
 <!-- [![youtube badge](https://img.shields.io/badge/youtube-30302f?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCtbdUBRM5h07Ctw3oFwNaow) -->
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-### I know : 
+### I know :
 
 <a href="https://github.com/s-yartey007">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -81,15 +83,15 @@ Call me = "Emmanuel Yartey" 🤗
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 ![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=s-yartey007&theme=dracula&hide_border=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-yartey007&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-yartey007&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-yartey007&theme=github_dark)
 [![Bentil Shadrack's stats](https://github-readme-stats.vercel.app/api?username=s-yartey007&show_icons=true&theme=github_dark)](https://github.com/s-yartey007)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qbentil&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/qbentil) -->
- 
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)  
+
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=qbentil&theme=dracula)
 <h2>🏆My Github Profile Trophy</h2>
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=qbentil&column=7&theme=gruvbox&no-frame=true"/>
 
