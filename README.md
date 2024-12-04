@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=S-yartey007&label=Profile%20views&color=e91e63&style=flat" alt="qbentil" /> </p>
 <p>
-    <h1 align="center"> Hi 👋, Emmanule here</h1>
+    <h1 align="center"> Hi 👋, this is Emmanuel</h1>
 <p align="center"> 
-learning about Node.js & vanilla JavaScript is my pride and joy<br />
+Very exited to learn about Node.js & vanilla JavaScript<br />
 </p>
 
 ## 🎧ABOUT ME💻
